@@ -9,11 +9,18 @@
 <img width="3072" height="4096" alt="IMG_20261011_211728" src="https://github.com/user-attachments/assets/361afee3-190d-4661-a634-e492cc30183f" />
 <img width="4096" height="3072" alt="IMG_20261012_224112" src="https://github.com/user-attachments/assets/44c8f401-0d0c-46bf-b2d7-55dcf38a0a52" />
 这是立创原理图飞控部分，MPU6050为陀螺仪预留接口，还有串口预留接口，还有1组TIMPWM预留，目前还没有实现自稳，可以自己选择编辑，有开关电源，将电机的电流没有通过pmos，防止烧mos管
+还有通过降压模块MP584EN DC-DC通过电池降压到5V给飞控供电，然后飞控上有预留电源接口给舵机供电，电池直接给电调供电
+<img width="3072" height="4096" alt="IMG_20261011_162041" src="https://github.com/user-attachments/assets/000f100f-8c77-4e25-a1e3-eb69736459b0" />
+
 <img width="472" height="404" alt="屏幕截图 2026-10-22 213423" src="https://github.com/user-attachments/assets/1a5448eb-8d7e-4eff-94fa-f7eace7e13b6" />
 <img width="783" height="491" alt="屏幕截图 2026-10-22 213438" src="https://github.com/user-attachments/assets/49a6f835-da0a-46a6-a6a8-d8503da28ae6" />
 
 这有飞行效果
 
 
-https://github.com/user-attachments/assets/369f4b73-922c-42b4-8883-f78a17a1906d
+
+https://github.com/user-attachments/assets/cf85f84e-446e-44e8-b879-43ce93030fa4
+
+
+
 
